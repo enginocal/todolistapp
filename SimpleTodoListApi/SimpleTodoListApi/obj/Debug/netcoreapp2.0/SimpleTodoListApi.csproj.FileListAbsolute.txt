@@ -1,0 +1,11 @@
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\bin\Debug\netcoreapp2.0\SimpleTodoListApi.deps.json
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\bin\Debug\netcoreapp2.0\SimpleTodoListApi.runtimeconfig.json
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\bin\Debug\netcoreapp2.0\SimpleTodoListApi.runtimeconfig.dev.json
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\bin\Debug\netcoreapp2.0\SimpleTodoListApi.dll
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\bin\Debug\netcoreapp2.0\SimpleTodoListApi.pdb
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\obj\Debug\netcoreapp2.0\SimpleTodoListApi.csprojResolveAssemblyReference.cache
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\obj\Debug\netcoreapp2.0\SimpleTodoListApi.csproj.CoreCompileInputs.cache
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\obj\Debug\netcoreapp2.0\SimpleTodoListApi.AssemblyInfoInputs.cache
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\obj\Debug\netcoreapp2.0\SimpleTodoListApi.AssemblyInfo.cs
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\obj\Debug\netcoreapp2.0\SimpleTodoListApi.dll
+C:\work-todo\SimpleTodoList\SimpleTodoListApi\obj\Debug\netcoreapp2.0\SimpleTodoListApi.pdb

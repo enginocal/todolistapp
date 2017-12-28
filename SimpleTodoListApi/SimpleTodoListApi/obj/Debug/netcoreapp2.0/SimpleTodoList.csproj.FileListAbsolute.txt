@@ -1,0 +1,21 @@
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.deps.json
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.runtimeconfig.json
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.runtimeconfig.dev.json
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.dll
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.csprojResolveAssemblyReference.cache
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.csproj.CoreCompileInputs.cache
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.AssemblyInfoInputs.cache
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.AssemblyInfo.cs
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.pdb
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.dll
+c:\users\eisao\onedrive\documents\visual studio 2017\Projects\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.pdb
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.csproj.CoreCompileInputs.cache
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.AssemblyInfoInputs.cache
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.AssemblyInfo.cs
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.deps.json
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.runtimeconfig.json
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.runtimeconfig.dev.json
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.dll
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\bin\Debug\netcoreapp2.0\SimpleTodoList.pdb
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.dll
+C:\DevPersonal\SimpleTodoList\SimpleTodoList\obj\Debug\netcoreapp2.0\SimpleTodoList.pdb
